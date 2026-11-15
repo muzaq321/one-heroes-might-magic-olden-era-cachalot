@@ -200,3 +200,5 @@ Use the button in the Quick Start section.
 ---
 
 *Heroes of Might and Magic: Olden Era · Updated 2026-11-15 · Shared under the MIT License*
+
+<!-- rev 2026-11-15 -->
